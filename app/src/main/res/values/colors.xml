@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores base -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Colores de jugadores -->
+    <color name="colorBlue">#00D4FF</color>
+    <color name="colorRed">#FF3B6D</color>
+    
+    <!-- Fondo gradiente -->
+    <color name="backgroundStart">#1A1A2E</color>
+    <color name="backgroundEnd">#16213E</color>
+    
+    <!-- Botones del juego -->
+    <color name="buttonBackground">#0F3460</color>
+    <color name="buttonBorder">#533483</color>
+    
+    <!-- Botón reset gradiente -->
+    <color name="gradientStart">#E94560</color>
+    <color name="gradientEnd">#FF6B9D</color>
+    
+    <!-- Texto -->
+    <color name="textPrimary">#FFFFFF</color>
+    <color name="textSecondary">#B8B8D1</color>
+</resources>
